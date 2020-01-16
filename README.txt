@@ -4,3 +4,4 @@ Mathematics
 Freshman
 East Lansing
 None
+Brandon Pries, priesbr1@msu.edu
