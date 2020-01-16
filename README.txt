@@ -5,3 +5,4 @@ Freshman
 East Lansing
 None
 Brandon Pries, priesbr1@msu.edu
+Lindsey McCann, mccannl3@msu.edu
